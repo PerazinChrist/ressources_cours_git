@@ -1,5 +1,5 @@
 # ressources_cours_git
-Les ressources pour la formation sur Git et GitHub
+Les ressources pour la formation sur Git et GitHub GET
 
 ▬ RECEVEZ GRATUITEMENT VOTRE FICHE DE SYNTHÈSE ▬
 ➽ Fiche à télécharger: http://codeur-pro.fr/cadeau-formation-git
